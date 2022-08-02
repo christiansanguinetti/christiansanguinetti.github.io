@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 260px;
+    height: 260px;
+}
+/* titulos */
+h1{
+    text-align: center;
+    color: crimson;
+    background-color: black;
+}
+h2{
+    color: black;
+    background-color: yellow;
+}
+p{
+    text-align: justify;
+    text-indent: 70px;
+}
+h3{
+    color: white;
+    background-color: black;
+}
